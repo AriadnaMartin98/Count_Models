@@ -10,5 +10,5 @@ This folder contains the functions to:
 
 
 **For more information and citations:**
-> **Martín, Ariadna and Jane, Robert ansd Wahl, Thomas, Comparative evaluation against alternative overdispersion models on storm surge data**. Available at: 
+> **Martín, Ariadna and Jane, Robert ansd Wahl, Thomas, How Much Complexity Is Needed? A Comparison of Overdispersed Count Models for Storm Surge Data**. Available at: 
 
